@@ -1,3 +1,6 @@
 [submodule "eshelon-stroy-back"]
     path = eshelon-stroy-back
     url = https://github.com/BilMkh/eshelon-stroy-back.git
+[submodule "eshelon-stroy-front"]
+	path = eshelon-stroy-front
+	url = https://github.com/BilMkh/eshelon-stroy-front.git
